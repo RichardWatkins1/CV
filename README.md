@@ -45,7 +45,7 @@ My previous career involved both working in and managing a team and 15 Teachers 
 
 #### Makers Academy (April 2016 to July 2016)
 
-- Curiosity and hungry passion for code
+- Curiosity and passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
