@@ -80,5 +80,4 @@ My previous career involved both working in and managing a team and 15 Teachers 
 
 #### Contact
 
-- Email - RichardWatkins1@gmail.com
 - LinkedIn - www.linkedin.com/in/richard-watkins-2016
