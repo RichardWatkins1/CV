@@ -33,9 +33,9 @@ Excellent communication skills as I previously worked as a Teacher of Science at
 
 My previous career invloved both working in and managing a team and 15 Teachers that produced the best science results in the history of Rodillian Academy. Maker's Acadmey also allows several opportunities to work in teams and manage workflow in an agile way and this is something I'm looking for in my future employment.
 
--Pair programming and Agile methodologies at Makers Academy.
--Develop strong professional relationships. 
--Humble approach to decision making by respectfully communicating my opinions based on meritocracy.
+- Pair programming and Agile methodologies at Makers Academy.
+- Develop strong professional relationships. 
+- Humble approach to decision making by respectfully communicating my opinions based on meritocracy.
 
 
 ## Education
