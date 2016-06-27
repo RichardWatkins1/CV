@@ -14,7 +14,7 @@ I'm looking for a company that embodies agile practices such and pairing and the
 | [Airport chllenge](https://github.com/RichardWatkins1/airport_challenge) | A command line airport control system, developed as a solo weekend challenge at Makers Academy.                                                      | Ruby, Rspec                   |
 | [AirBnB clone](https://github.com/RichardWatkins1/arrrgbnb)               | An MVP version of Air BnB                                                         | Ruby, Sinatra, Rspec, Capybara, PostgreSQL               |
 
-## <a name="skills">Skills</a>
+## <a name="Skills">Skills</a>
 
 #### Fast Learner
 
@@ -41,7 +41,7 @@ My previous career involved both working in and managing a team and 15 Teachers 
 - Humble approach to decision making by respectfully communicating my opinions based on meritocracy.
 
 
-## <a name="education">Education</a>
+## <a name="Education">Education</a>
 
 #### Makers Academy (April 2016 to July 2016)
 
@@ -64,7 +64,7 @@ My previous career involved both working in and managing a team and 15 Teachers 
 - British Weightlifting Level one Coach.
 - Aspiring Senior  Leaders programme - Rodillian Academy - run by Andy Goulty.
 
-## <a name="experience">Experience</a>
+## <a name="Experience">Experience</a>
 
 **The Rodillian Academy** (September 2013 to April 2016)    
 *Assistant Head of Science*  
