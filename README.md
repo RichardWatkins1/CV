@@ -70,5 +70,5 @@ My previous career invloved both working in and managing a team and 15 Teachers 
 
 #### Other things I like
 
--Brazilian Jiu Jitsu - British No-Gi Champion 
--Olympic Weightlifting - 3rd place in the Northen Open
+- Brazilian Jiu Jitsu - British No-Gi Champion 
+- Olympic Weightlifting - 3rd place in the Northen Open
