@@ -7,13 +7,14 @@ A person who has many interests and is always seeking new challenges, this mind-
 I'm looking for a company that embodies agile practices such and pairing and the XP values as this is something I particularly enjoyed over the course and look forward to taking on in my career, I'm also looking for an environment where I can continue to learn and grow as the desire to continue to learn new skills was a key component of my decision to change careers.
 
 ### Code Examples
+
 | Project Name        | Description         | Technologies        |
 |-------------------------|-------------------------|-------------------------|
 | [Do-ocracy](https://github.com/RichardWatkins1/doocracy)| A web application that allows transparent project management aimed at increasing engagement and participation of various projects. | Ruby on Rails, jQuery, Firebase, Facebook SDK, AWS, PostgreSQL ,Rspec, Capybara, Google Maps |
 | [Airport chllenge](https://github.com/RichardWatkins1/airport_challenge) | A command line airport control system, developed as a solo weekend challenge at Makers Academy.                                                      | Ruby, Rspec                   |
 | [AirBnB clone](https://github.com/RichardWatkins1/arrrgbnb)               | An MVP version of Air BnB                                                         | Ruby, Sinatra, Rspec, Capybara, PostgreSQL               |
 
-##Skills
+## <a name="skills">Skills</a>
 
 #### Fast Learner
 
@@ -40,7 +41,7 @@ My previous career involved both working in and managing a team and 15 Teachers 
 - Humble approach to decision making by respectfully communicating my opinions based on meritocracy.
 
 
-## Education
+## <a name="education">Education</a>
 
 #### Makers Academy (April 2016 to July 2016)
 
@@ -63,7 +64,7 @@ My previous career involved both working in and managing a team and 15 Teachers 
 - British Weightlifting Level one Coach.
 - Aspiring Senior  Leaders programme - Rodillian Academy - run by Andy Goulty.
 
-## Experience
+## <a name="experience">Experience</a>
 
 **The Rodillian Academy** (September 2013 to April 2016)    
 *Assistant Head of Science*  
