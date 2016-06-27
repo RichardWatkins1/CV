@@ -22,7 +22,7 @@ Constantly try to embody a growth mind-set and find opportunities to learn new s
 
 - Built multiple projects in various different languages throughout the Makers Academy course.
 - Managed deadlines and workflow using new tools and XP values.
-- As part of a team of 4 built Do-ocracy a website that allows large complicated projects to be managed and controlled by the members themselves in order to reduce bureaucracy through an open source approach. http://doocracy.herokuapp.com/.
+- As part of a team of 4 built Do-ocracy a website that allows large complicated projects to be managed and controlled by the members themselves in order to reduce bureaucracy through an open source approach. http://doocracy.herokuapp.com/. This project combined all the skills that were learnt during the course include Rails, Rspec and postgres.
 
 #### Communication
 
