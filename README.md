@@ -1,8 +1,17 @@
-## Your Name
+## Richard Watkins
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A person who has many interests and is always seeking new challenges, this mindset has driven my to take the decision to change careers and undergo an intensive bootcamp at Maker's Academy learning software development through agile practices. The intensive 3 months has seen me develop both my growth mindset and my programming skills by building complex projects in a short amount of time (usually 1 or 2 weeks). 
 
-## Skills
+I'm looking for a company that embodies agile practices such and pairing and the XP values as this is something I particuarly enjoyed over the course and look forward to taking on in my career, I'm also looking for an environment where I can continue to learn and grow as the desire to continue to learn new skills was a key component of my decision to change careers.
+
+### Code Examples
+| Project Name        | Description         | Technologies        |
+|-------------------------|-------------------------|-------------------------|
+| [Do-ocracy](https://github.com/RichardWatkins1/doocracy)| A web application that allows transparent project management aimed at increasing engagement and participation of various projects. | Ruby on Rails, jQuery, Firebase, Facebook SDK, AWS, PostgreSQL ,Rspec, Capybara |
+| [Airport chllenge](https://github.com/RichardWatkins1/airport_challenge) | A command line airport control system, developed as a solo weekend challenge at Makers Academy.                                                      | Ruby, Rspec                   |
+| [AirBnB clone](https://github.com/RichardWatkins1/arrrgbnb)               | An MVP version of Air BnB                                                         | Ruby, Sinatra, Rspec, Capybara, PostgreSQL               |
+
+##Skills
 
 #### This Skill
 
@@ -23,7 +32,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2016 to July 2016)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
