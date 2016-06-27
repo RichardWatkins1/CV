@@ -51,7 +51,7 @@ My previous career involved both working in and managing a team and 15 Teachers 
 
 #### Newcastle University (September 2006 to July 2010)
 
-- Applied Biology (BSc hons), PGCE (secondary Biology
+- Applied Biology (BSc hons), PGCE (secondary Biology)
 
 #### Other qualifications and experience
 
