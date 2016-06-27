@@ -70,6 +70,8 @@ My previous career involved both working in and managing a team and 15 Teachers 
 *Assistant Head of Science*  
 **Benton Park School** (September 2012 to September 2013)   
 *Teacher of Science*  
+**Gosforth East Middle School** (September 2010 to September 2012)   
+*Teacher of Science*
 
 #### Other things I like
 
