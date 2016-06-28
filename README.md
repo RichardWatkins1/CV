@@ -10,7 +10,7 @@ I'm looking for a company that embodies agile practices such as pairing and the 
 
 | Project Name        | Description         | Technologies        |
 |-------------------------|-------------------------|-------------------------|
-| [Do-ocracy](https://github.com/RichardWatkins1/doocracy)| A web application that allows transparent project management aimed at increasing engagement and participation of various projects. | Ruby on Rails, jQuery, Firebase, Facebook SDK, AWS, PostgreSQL ,Rspec, Capybara, Google Maps |
+| [Do-ocracy](https://github.com/RichardWatkins1/doocracy)| A web application that allows transparent project management aimed at increasing engagement and participation of various projects. | Ruby on Rails, jQuery, Omniauth, AWS, PostgreSQL ,Rspec, Capybara, Google Maps |
 | [Airport chllenge](https://github.com/RichardWatkins1/airport_challenge) | A command line airport control system, developed as a solo weekend challenge at Makers Academy.                                                      | Ruby, Rspec                   |
 | [AirBnB clone](https://github.com/RichardWatkins1/arrrgbnb)               | An MVP version of Air BnB                                                         | Ruby, Sinatra, Rspec, Capybara, PostgreSQL               |
 
@@ -26,7 +26,7 @@ Constantly try to embody a growth mind-set and find opportunities to learn new s
 
 #### Communication
 
-Excellent communication skills as I previously worked as a Teacher of Science at a school ranked in the top 1% of schools national in terms of student progress. As a teacher the success and opportunities of the young people I taught depended on my ability to clearly communicate the skills and content required for their examinations.
+Excellent communication skills as I previously worked as Assistant Head of Science at a school ranked in the top 1% of schools national in terms of student progress. As a teacher the success and opportunities of the young people I taught depended on my ability to clearly communicate the skills and content required for their examinations.
 
 - I achieved 'outstanding' results over several years, subjects and ability levels.
 - I contributed to the development of my profession by mentoring student teachers (including pair lesson planning, observation feedback and reflection) and achieving becoming an 'outstanding' mentor from the University of Leeds. 
