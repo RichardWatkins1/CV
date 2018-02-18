@@ -48,7 +48,7 @@ Working in a team it's crucial to communicate open and honestly while sharing th
 I am passionate about writing clean, maintainable and efficient code. At Shift Commerce I've been part of a team of developers that aim to give the agility and scalability of a start up to mid to enterprise level business. This has meant I've worked in a full stack Rails environment building and using API's as well as integrating third party services.
 
 - Production experience using Postgres, Ruby on Rails, Jsonapi Resources, AWS, Heroku, JavaScript, CoffeeScript, Jquery, React, Apache Kafka and Serverless.
-- Experience using search technologies such as ElasticSearch and Algolia.
+- Production experience using search technologies such as ElasticSearch and Algolia.
 - Casual experience of GraphQL and Elixir. I feel it's important to try to learn new technologies as it helps you solve new problems when you inevitably run into them in your production environment.
 
 ## <a name="Education">Education</a>
