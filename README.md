@@ -27,7 +27,7 @@ I constantly try to embody a growth mind-set and find opportunities to learn new
 
 #### Communication
 
-Excellent communication skills as I previously worked as an Assistant Head of Science at a school ranked in the top 1% of schools nationally in terms of student progress. These skills really help me to communicate to all types of people from fellow developers, stakeholders or operations managers I am able to clearly communicate.
+Excellent communication skills as I previously worked as an Assistant Head of Science at a school ranked in the top 1% of schools nationally in terms of student progress. These skills really help me to communicate to all types of people from fellow developers, stakeholders or operations managers, whoever it is I am able to clearly communicate.
 
 -	I have been involved with stake holders estimating work, to do this clear communication is key as expectations need to be set both in terms of time and cost. I also feel an overview of the work involved really helps set minds at ease.
 -	I am to learn from all the developers around me by listening to everyone from juniors to seniors as everyone always has different interests and expertise.
