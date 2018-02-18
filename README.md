@@ -76,14 +76,10 @@ I am passionate about writing clean, maintainable and efficient code. At Shift C
 
 ## <a name="Experience">Experience</a>
 
-- **Shift Commerce** (August 2016 to             present)
-  *Software Engineer*
-- **The Rodillian Academy** (September 2013 to April 2016)    
-  *Assistant Head of Science*  
-- **Benton Park School** (September 2012 to September 2013)   
-  *Teacher of Science*  
-- **Gosforth East Middle School** (September 2010 to September 2012)   
-  *Teacher of Science*
+- **Shift Commerce** (August 2016 to present) - *Software Engineer*
+- **The Rodillian Academy** (September 2013 to April 2016) - *Assistant Head of Science*  
+- **Benton Park School** (September 2012 to September 2013) - *Teacher of Science*     
+- **Gosforth East Middle School** (September 2010 to September 2012) - *Teacher of Science*
 
 #### Other things I like
 
