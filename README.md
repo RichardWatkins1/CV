@@ -4,7 +4,7 @@
 
 As a motivated and self-driven individual I’m always seeking new challenges. This led me to change careers from a science teacher at one of the UK’s top performing schools and learn to code.
  
-A three month intensive course at Makers Academy taught me HTML, JavaScript and Ruby as well as working to agile standards to code in real-world projects. Getting a job at a start up really helped me continue to develop and pick up a wide range of technologies while giving me the experience of debugging and optimising production code. It has also given me the opportunity to work in a full stack environment and this is something I would like to continue.
+A three month intensive course at Makers Academy taught me HTML, JavaScript and Ruby as well as working to agile standards to code in real-world projects. Obtaining a job at a start up really helped me continue to develop and pick up a wide range of technologies while giving me the experience of debugging and optimising production code. It has also given me the opportunity to work in a full stack environment and this is something I would like to continue.
  
 I’m looking to continue to grow by working with like-minded individuals at a company which embodies modern practices and will support my passion to develop.
 
