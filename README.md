@@ -1,6 +1,6 @@
 ## Richard Watkins
 
-[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Technology](#Technology)
+[Skills](#Skills) | [Education](#Education) | [Experience](#Experience)
 
 As a motivated and self-driven individual I’m always seeking new challenges. This led me to change careers from a science teacher at one of the UK’s top performing schools and learn to code.
  
