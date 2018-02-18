@@ -76,7 +76,8 @@ I am passionate about writing clean, maintainable and efficient code. At Shift C
 
 ## <a name="Experience">Experience</a>
 
-**Shift Commerce** (August 2017 tp present
+**Shift Commerce** (August 2016 tp present)
+*Software Engineer*
 **The Rodillian Academy** (September 2013 to April 2016)    
 *Assistant Head of Science*  
 **Benton Park School** (September 2012 to September 2013)   
