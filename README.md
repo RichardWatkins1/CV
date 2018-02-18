@@ -1,6 +1,6 @@
 ## Richard Watkins
 
-[Skills](#Skills) | [Education](#Education) | [Experience](#Experience)
+[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Technology](#Technology)
 
 As a motivated and self-driven individual I’m always seeking new challenges. This led me to change careers from a science teacher at one of the UK’s top performing schools and learn to code.
  
@@ -31,7 +31,7 @@ Excellent communication skills as I previously worked as an Assistant Head of Sc
 
 -	I have been involved with stake holders estimating work, to do this clear communication is key as expectations need to be set both in terms of time and cost. I also feel an overview of the work involved really helps set minds at ease.
 -	I aim to learn from all the developers around me by listening to everyone from juniors to seniors as everyone always has different interests and expertise.
--	I have embodied agile practices that I learnt at Makers Academy things like stand-ups, retros and pairing programming. All of which I have continued at Shift Commerce.
+-	I have embodied agile practices that I learnt at Makers Academy such as stand-ups, retros and pairing programming. All of which I have continued at Shift Commerce.
 
 
 #### Teamwork
