@@ -1,6 +1,6 @@
 ## Richard Watkins
 
-[Work Experience](#WorkExperience) | [Education](#Education) | [Self Study](#SelfStudy)
+[Work Experience](#WorkExperience) | [Education](#Education) | [Self Study](#SelfStudy) | [Experience](#Experience)
 
 As a motivated and self-driven individual I’m always seeking new challenges. This led me to change careers from a science teacher at one of the UK’s top performing schools and learn to code.
  
@@ -10,7 +10,7 @@ I’m looking to continue to grow by working with like-minded individuals at a c
 
 ## <a name="WorkExperience">Work Experience</a>
  
-- Applied clean code practices and design patterns to develop readable, maintainable and scalable code for an enterprice level ecommerce platform.
+- Applied clean code practices and design patterns to develop readable, maintainable and scalable code for an enterprise level ecommerce platform.
 - Improved existing code using SOLID design principles.
 - Ensured quality with unit and integration tests and applying TDD.
 
@@ -29,10 +29,10 @@ I’m looking to continue to grow by working with like-minded individuals at a c
 
 #### Makers Academy (April 2016 to July 2016)
 
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- OOP, TDD, SOLID, MVC, DDD.
+- Software Craftsmanship.
+- Ruby, Rails, Javascript, Node.js, Angular.js.
+- Rspec, Jasmine, Mocha.
 
 #### Newcastle University (September 2006 to July 2010)
 
@@ -47,8 +47,8 @@ I’m looking to continue to grow by working with like-minded individuals at a c
 
 ## <a name="SelfStudy">Self Study</a>
 
-- The Complete Node.js Developer Course (2nd Edition)
-- Practical Object-Oriented Design in Ruby by Sandi Metz
+- The Complete Node.js Developer Course (2nd Edition).
+- Practical Object-Oriented Design in Ruby by Sandi Metz.
 - The Well-Grounded Rubyist, Second Edition.
 
 ## <a name="Experience">Experience</a>
