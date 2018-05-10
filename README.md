@@ -1,38 +1,23 @@
 ## Richard Watkins
 
-[Skills](#Skills) | [Education](#Education) | [Experience](#Experience)
+[Work Experience](#Work Experience) | [Education](#Education) | [Self Study](#Self Study)
 
 As a motivated and self-driven individual I’m always seeking new challenges. This led me to change careers from a science teacher at one of the UK’s top performing schools and learn to code.
  
-A three month intensive course at Makers Academy taught me HTML, JavaScript and Ruby as well as working to agile standards to code in real-world projects. Obtaining a job at a start up really helped me continue to develop and pick up a wide range of technologies while giving me the experience of debugging and optimising production code. It has also given me the opportunity to work in a full stack environment and this is something I would like to continue.
+A three month intensive course at Makers Academy taught me a range of technologies essential for web development as well as working to agile standards to code in real-world projects. Obtaining a job at a start up really helped me continue to develop and pick up a wide range of skills inlucding building and maintaining scalable applications while giving me the experience of debugging and optimising production code. It has also given me the opportunity to work in a full stack environment and this is something I would like to continue.
  
 I’m looking to continue to grow by working with like-minded individuals at a company which embodies modern practices and will support my passion to develop.
 
-### Code Examples
+## <a name="Work Experience">Work Experience</a>
+ 
+- Applied clean code practices and design patterns to develop readable, maintainable and scalable code for an enterprice level ecommerce platform.
+- Improved existing code using SOLID design principles.
+- Ensured quality with unit and integration tests and applying TDD.
 
-| Project Name        | Description         | Technologies        |
-|-------------------------|-------------------------|-------------------------|
-| [Do-ocracy](https://github.com/RichardWatkins1/doocracy)| A web application that allows transparent project management aimed at increasing engagement and participation of various projects. | Ruby on Rails, jQuery, Omniauth, AWS, PostgreSQL ,Rspec, Capybara, Google Maps |
-| [AirBnB clone](https://github.com/RichardWatkins1/arrrgbnb)               | An MVP version of Air BnB                                                         | Ruby, Sinatra, Rspec, Capybara, PostgreSQL               |
+#### Technology
 
-## <a name="Skills">Skills</a>
-
-#### Fast Learner
-
-I constantly try to embody a growth mind-set and find opportunities to learn new skills. I love to take on new challenges and solve fresh exciting new problems. I feel as a career changer this is imperative as I have time to make up. 
-
-- First experience of writing production code was working on an ecommerce platform that serves > 500,000 requests per hour.
-- Production experience of latest technologies such as React and Serverless.
-- Experience of the full development cycle from estimating and quoting for work to testing driven development and finally to QA.
-
-#### Communication
-
-Excellent communication skills as I previously worked as an Assistant Head of Science at a school ranked in the top 1% of schools nationally in terms of student progress. These skills really help me to communicate to all types of people from fellow developers, stakeholders or operations managers. Whatever the level of technical expertise I am able to communicate clearly.
-
--	I have been involved with stake holders estimating work, to do this clear communication is key as expectations need to be set both in terms of time and cost. I also feel an overview of the work involved really helps set minds at ease.
--	I aim to learn from all the developers around me by listening to everyone from juniors to seniors as everyone always has different interests and expertise.
--	I have embodied agile practices that I learnt at Makers Academy such as stand-ups, retros and pairing programming. All of which I have continued at Shift Commerce.
-
+-	PostgreSQL, Ruby on Rails, JSON API, Elasticsearch, AWS, Kafka, Heroku.
+- Node, Serverless, React, Algolia.
 
 #### Teamwork
 
@@ -42,21 +27,10 @@ Working in a team it's crucial to communicate open and honestly while sharing th
 - Develop strong professional relationships.
 - Humble approach to decision making by respectfully communicating my opinions based on meritocracy.
 
-
-#### Technology
-
-I am passionate about writing clean, maintainable and efficient code. At Shift Commerce I've been part of a team of developers that aim to give the agility and scalability of a start up to mid to enterprise level business. This has meant I've worked in a full stack Rails environment building and using API's as well as integrating third party services.
-
-- Production experience using Postgres, Ruby on Rails, Jsonapi Resources, AWS, Heroku, JavaScript, CoffeeScript, Jquery, React, Apache Kafka and Serverless.
-- Production experience using search technologies such as ElasticSearch and Algolia.
-- Casual experience of GraphQL and Elixir. I feel it's important to try to learn new technologies as it helps you solve new problems when you inevitably run into them in your production environment.
-
 ## <a name="Education">Education</a>
 
 #### Makers Academy (April 2016 to July 2016)
 
-- Curiosity and passion for code
-- Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
@@ -72,7 +46,12 @@ I am passionate about writing clean, maintainable and efficient code. At Shift C
 - Introduction to Biology - The Secret of life - MITx.
 - Mentor Training - University  of Leeds - Becoming an Effective Mentor.
 - British Weightlifting Level one Coach.
-- Aspiring Senior  Leaders programme - Rodillian Academy - run by Andy Goulty.
+
+## <a name="Self Study">Self Study</a>
+
+- The Complete Node.js Developer Course (2nd Edition)
+- Practical Object-Oriented Design in Ruby by Sandi Metz
+- The Well-Grounded Rubyist, Second Edition.
 
 ## <a name="Experience">Experience</a>
 
