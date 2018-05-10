@@ -1,6 +1,6 @@
 ## Richard Watkins
 
-[Work Experience](#Work Experience) | [Education](#Education) | [Self Study](#Self Study)
+[Work Experience](#WorkExperience) | [Education](#Education) | [Self Study](#SelfStudy)
 
 As a motivated and self-driven individual I’m always seeking new challenges. This led me to change careers from a science teacher at one of the UK’s top performing schools and learn to code.
  
@@ -8,7 +8,7 @@ A three month intensive course at Makers Academy taught me a range of technologi
  
 I’m looking to continue to grow by working with like-minded individuals at a company which embodies modern practices and will support my passion to develop.
 
-## <a name="Work Experience">Work Experience</a>
+## <a name="WorkExperience">Work Experience</a>
  
 - Applied clean code practices and design patterns to develop readable, maintainable and scalable code for an enterprice level ecommerce platform.
 - Improved existing code using SOLID design principles.
@@ -20,8 +20,6 @@ I’m looking to continue to grow by working with like-minded individuals at a c
 - Node, Serverless, React, Algolia.
 
 #### Teamwork
-
-Working in a team it's crucial to communicate open and honestly while sharing the best practices to learn and grow together. This is something I am excellent at, I really feel that every code review is an opportunity to learn and maintain the highest possible coding standards.
 
 - Pair programming and Agile methodologies started Makers Academy continued at Shift Commerce.
 - Develop strong professional relationships.
@@ -47,7 +45,7 @@ Working in a team it's crucial to communicate open and honestly while sharing th
 - Mentor Training - University  of Leeds - Becoming an Effective Mentor.
 - British Weightlifting Level one Coach.
 
-## <a name="Self Study">Self Study</a>
+## <a name="SelfStudy">Self Study</a>
 
 - The Complete Node.js Developer Course (2nd Edition)
 - Practical Object-Oriented Design in Ruby by Sandi Metz
