@@ -9,14 +9,19 @@ A three month intensive course at Makers Academy taught me a range of technologi
 I’m looking to continue to grow by working with like-minded individuals at a company which embodies modern practices and will support my passion to develop.
 
 ## <a name="WorkExperience">Work Experience</a>
- 
+
+- Built an in store application for one of the UK's leading retailers which is currently present in over 100 stores nationwide. Using Ruby on Rails and working with 3rd party payment provider red ant.
+- Built a Serverless Node integration for sending JSON API complient emails.
+- Worked as part of a team to optimise an ecommerce platform by minimising database transactions and applying fragment caching using memcached on the clients front end.
+- Optimised an ecommerce platform test suite reducing it's run time by 25% using rspec, capybara and various other testing frameworks.
+- Wrote platform api documentation for a 3rd party mobile application.
 - Applied clean code practices and design patterns to develop readable, maintainable and scalable code for an enterprise level ecommerce platform.
 - Improved existing code using SOLID design principles.
 - Ensured quality with unit and integration tests and applying TDD.
 
 #### Technology
 
--	PostgreSQL, Ruby on Rails, JSON API, Elasticsearch, AWS, Kafka, Heroku.
+-	PostgreSQL, Ruby on Rails, JSON API, Elasticsearch, AWS, Kafka, Heroku, Fastly.
 - Node, Serverless, React, Algolia.
 
 #### Teamwork
