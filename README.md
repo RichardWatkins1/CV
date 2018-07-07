@@ -13,12 +13,13 @@ I’m looking to continue to grow by working with like-minded individuals at a c
 - Built an in store application for one of the UK's leading retailers which is currently present in over 100 stores nationwide. Using Ruby on Rails and working with 3rd party payment provider red ant.
 - Built a Serverless Node integration for sending JSON API complient emails.
 - Worked as part of a team to optimise an ecommerce platform by minimising database transactions and applying fragment caching using memcached on the clients front end.
-- Worked as part of a team to introduce a multi-tenanted database to an enterprice level ecommerce platform.
+- Worked as part of a team to introduce a multi-tenanted database to an enterprise ready ecommerce platform.
 - Optimised an ecommerce platform test suite, reducing it's run time by 25% using rspec, capybara and various other testing frameworks.
 - Wrote RESTful api documentation for a 3rd party mobile application.
 - Applied clean code practices and design patterns to develop readable, maintainable and scalable code for an enterprise level ecommerce platform.
 - Improved existing code using SOLID design principles.
 - Ensured quality with unit and integration tests and applying TDD.
+- Prepared platform release notes.
 
 #### Technology
 
