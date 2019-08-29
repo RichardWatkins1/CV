@@ -32,7 +32,7 @@ I’m looking to continue to grow by working with like-minded individuals at a c
 
 - Pair programming and Agile methodologies started Makers Academy continued at Shift Commerce.
 - Develop strong professional relationships.
-- Humble approach to decision making by respectfully communicating my opinions based on meritocracy.
+- Humble approach to decision making.
 
 ## <a name="Education">Education</a>
 
