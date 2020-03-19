@@ -4,7 +4,7 @@
 
 I’m a highly proficient Software Engineer with close to 4 years commercial experience working for an Ecommerce platform. In this role I’ve worked across a range of microservices and technologies which has given me the skills needed to pick up and solve new problems quickly.
 
-Within the organisation I’ve moved across teams working on both front end and back end teams. Recently I’ve taken and passed my Professional Scrum Master certification and am helping in the continued adoption of Scrum and Agile practices in my current organisation.
+Within the organisation I’ve moved across teams working on both front end and back end projects. Recently I’ve taken and passed my Professional Scrum Master certification and am helping in the continued adoption of Scrum and Agile practices in my current organisation.
 
 I'm passionate about collaboratively writing high quality software and I'm looking to continue to grow and be challenged as part of a team while adding real value to users. I’m looking for a company with like-minded individuals who embody modern practices and will support my passion for solving real world problems by building scalable, maintainable services.
 
