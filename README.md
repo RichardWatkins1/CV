@@ -2,11 +2,11 @@
 
 [Work Experience](#WorkExperience) | [Education](#Education) | [Self Study](#SelfStudy) | [Experience](#Experience)
 
-As a motivated and self-driven individual I’m always seeking new challenges. This led me to change careers from a science teacher at one of the UK’s top performing schools and learn to code.
- 
-A three month intensive course at Makers Academy taught me a range of technologies essential for web development as well as working to agile standards to code in real-world projects. Obtaining a job at a startup really helped me continue to develop and pick up a wide range of skills including building and maintaining scalable applications while giving me the experience of debugging and optimising production code. It has also given me the opportunity to work in a full stack environment and this is something I would like to continue.
- 
-I’m looking to continue to grow by working with like-minded individuals at a company which embodies modern practices and will support my passion for solving real world problems by building scalable, maintainable services.
+I’m a highly proficient Software Engineer with close to 4 years commercial experience working for an Ecommerce platform. In this role I’ve worked across a range of microservices and technologies which has given me the skills needed to pick up and solve new problems quickly.
+
+Within the organisation I’ve moved across teams working on both front end and back end teams. Recently I’ve taken and passed my Professional Scrum Master certification and am helping in the continued adoption of Scrum and Agile practices in my current organisation.
+
+I'm passionate about collaboratively writing high quality software and I'm looking to continue to grow and be challenged as part of a team while adding real value to users. I’m looking for a company with like-minded individuals who embody modern practices and will support my passion for solving real world problems by building scalable, maintainable services.
 
 ## <a name="WorkExperience">Work Experience</a>
 
@@ -19,22 +19,39 @@ I’m looking to continue to grow by working with like-minded individuals at a c
 - Worked with a 3rd party native app company to deliver a hybrid app for one of the largest retailers in the UK.
 - Worked as part of a team to introduce a multi-tenanted database to an enterprise ready headless ecommerce platform.
 - Optimised an ecommerce platform test suite, reducing it's run time by 25% using rspec, capybara and various other testing frameworks.
-- Wrote RESTful API documentation for a 3rd party mobile application.
+-I've written internal and external API documentation.
 - Applied clean code practices and design patterns to develop readable, maintainable, simple and scalable code for an enterprise level ecommerce platform.
 - Improved existing code using SOLID design principles.
 - Ensured quality with unit, integration tests, applying TDD and BDD.
 - Prepared platform release notes for clients.
 
-#### Technology
+#### Technologies Used Professionally
 
-- PostgreSQL, Ruby on Rails, JSON API, Elasticsearch, AWS, Kafka, Heroku, Fastly.
-- Node, Serverless, React, Algolia, Rspec, Jest, Cypress.
+- Ruby on Rails
+- PostgreSQL
+- Node
+- AWS
+- Serverless
+- Kafka
+- Heroku
+- Github
+- Fastly
+- React
+- Algolia
+- Rspec
+- Cypress
+- Jest
+- JSON API Resources
+- Elasticsearch
+- Terraform
+- NextJs
 
 #### Teamwork
 
+- Worked as part of a self organising cross functional development team to deliver a multi-tenanted Ecommerce platform.
 - Pair programming and Agile methodologies started Makers Academy continued at Shift Commerce.
 - Strong communication skills both with technical and non-technical staff.
-- Humble approach to decision making.
+- Worked as part of a Scrum team eventually moving to Scrum Master.
 
 ## <a name="Education">Education</a>
 
@@ -51,6 +68,7 @@ I’m looking to continue to grow by working with like-minded individuals at a c
 
 #### Other qualifications and experience
 
+- Professional Scrum Master (Scrum.org) - Feb 2020.
 - Scrum Team Member (Scrum inc) - May 2019.
 - edX Verified Certificate for Cyberwar, Surveillance and Security - AdelaideX -  Cyber101x.
 - Introduction to Biology - The Secret of life - MITx.
@@ -62,15 +80,17 @@ I’m looking to continue to grow by working with like-minded individuals at a c
 - Practical Object-Oriented Design in Ruby by Sandi Metz.
 - The Well-Grounded Rubyist, Second Edition.
 - What The Flexbox - Wes Bos course.
+- Go: The Complete Developers Guide.
 
 ## <a name="Experience">Experience</a>
 
-- **Shift Commerce** (August 2016 to present) - *Software Engineer*
+- **Shift Commerce** (February 2020 to present) - *Scrum Master & Software Engineer*
+- **Shift Commerce** (August 2016 to February 2020) - *Software Engineer*
 - **The Rodillian Academy** (September 2013 to April 2016) - *Assistant Head of Science*  
 - **Benton Park School** (September 2012 to September 2013) - *Teacher of Science*     
 - **Gosforth East Middle School** (September 2010 to September 2012) - *Teacher of Science*
 
-#### Other things I like
+#### Hobbies and Interests
 
 - Brazilian Jiu Jitsu - British No-Gi Champion 
 - Olympic Weightlifting - 3rd place in the English Northern Open
