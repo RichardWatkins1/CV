@@ -2,9 +2,11 @@
 
 [Work Experience](#WorkExperience) | [Education](#Education) | [Self Study](#SelfStudy) | [Experience](#Experience)
 
-I’m a highly proficient Software Engineer with close to 4 years commercial experience working for an Ecommerce platform. In this role I’ve worked across a range of microservices and technologies which has given me the skills needed to pick up and solve new problems quickly.
+Working as part of an agile team at SHIFT Commerce I have built, operated, maintained and optimised an enterprise level Headless Ecommerce platform for one of the UK’s largest retailers. Since inception as a single tenanted Ruby On Rails Monolith it has transitioned to a multi-tenanted system based and has moved to a microservices architecture using Kafka as a messaging system. All of this was delivered using continuous integration along with automated testing.
 
-Within the organisation I’ve moved across teams working on both front end and back end projects. Recently I’ve taken and passed my Professional Scrum Master certification and am helping in the continued adoption of Scrum and Agile practices in my current organisation.
+I’ve also been a part of integrating the platform with various different services from payment gateways, order management systems and email providers to name a few. All of these integrations have been built using the serverless framework to deploy resources to AWS including lambda, SQS, SNS, API Gateway and SSM.
+
+Whilst working at SHIFT Commerce the company has undergone a transition to encourage more agility. Initially following a traditional Kanban process until moving to use Scrum over the last 18 months. During this process I have worked as both a scrum team member and scrum master, gaining professional qualifications in both.
 
 I'm passionate about collaboratively writing high quality software and I'm looking to continue to grow and be challenged as part of a team while adding real value to users. I’m looking for a company with like-minded individuals who embody modern practices and will support my passion for solving real world problems by building scalable, maintainable services.
 
