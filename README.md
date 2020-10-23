@@ -82,6 +82,7 @@ I'm passionate about collaboratively writing high quality software and I'm looki
 - What The Flexbox - Wes Bos course.
 - Go: The Complete Developers Guide.
 - Attended - 4 Dimensions and 12 Aspects of Business Agility – A Structured Approach To Help Teams Succeed Webinar.
+- Studing towards my AWS Certified Developer – Associate qualification using A Cloud Guru. 
 
 ## <a name="Experience">Experience</a>
 
