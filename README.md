@@ -41,7 +41,6 @@ I'm passionate about collaboratively writing high quality software and I'm looki
 - Rspec
 - Cypress
 - Jest
-- JSON API Resources
 - Elasticsearch
 - Terraform
 - NextJs
