@@ -13,16 +13,15 @@ I'm passionate about collaboratively writing high quality software and I'm looki
 ## <a name="WorkExperience">Work Experience</a>
 
 - Built an in store application for one of the UK's leading retailers using Ruby on Rails and working with 3rd party payment provider red ant.
-- Built Serverless Node integrations for Mailchimp, Xero, Campaign Monitor along with several other systems.
-- Used Kafka as a messaging service to connect several microservices.
+- Built Serverless fault tolerant integrations using the latest technologies available on AWS.
 - Worked with Heroku platform API’s to maintain and develop a simple solution for clients to create apps on Heroku.
-- Built, maintained and optimised JSON API compliant Ruby API’s.
-- Worked as part of a team to optimise an ecommerce platform by minimising database transactions and applying fragment caching using memcached on the clients front end.
+- Built, maintained and thorouoghly test JSON API compliant Ruby API’s.
+- Worked as part of a team to optimise an ecommerce platform by minimising database transactions.
 - Worked with a 3rd party native app company to deliver a hybrid app for one of the largest retailers in the UK.
 - Worked as part of a team to introduce a multi-tenanted database to an enterprise ready headless ecommerce platform.
 - Optimised an ecommerce platform test suite, reducing it's run time by 25% using rspec, capybara and various other testing frameworks.
 -I've written internal and external API documentation.
-- Applied clean code practices and design patterns to develop readable, maintainable, simple and scalable code for an enterprise level ecommerce platform.
+- Applied clean code practices and design patterns to develop readable, maintainable, simple and scalable software.
 - Improved existing code using SOLID design principles.
 - Ensured quality with unit, integration tests, applying TDD and BDD.
 - Prepared platform release notes for clients.
