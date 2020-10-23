@@ -59,7 +59,7 @@ I'm passionate about collaboratively writing high quality software and I'm looki
 
 - OOP, TDD, SOLID, MVC, DDD.
 - Software Craftsmanship.
-- Ruby, Rails, Javascript, Node.js, Angular.js.
+- Ruby, Rails, Javascript, Node.js.
 - Rspec, Jasmine, Mocha.
 
 #### Newcastle University (September 2006 to July 2010)
