@@ -2,7 +2,7 @@
 
 [Work Experience](#WorkExperience) | [Education](#Education) | [Self Study](#SelfStudy) | [Experience](#Experience)
 
-Working as part of an agile team at SHIFT Commerce I have built, operated, maintained and optimised an enterprise level Headless Ecommerce platform for one of the UK’s largest retailers. Since inception as a single tenanted Ruby On Rails Monolith it has transitioned to a multi-tenanted system based and has moved to a microservices architecture using Kafka as a messaging system. All of this was delivered using continuous integration along with automated testing.
+Working as part of an agile team at SHIFT Commerce I have built, operated, maintained and optimised an enterprise level Headless Ecommerce platform for one of the UK’s largest retailers. Since inception as a single tenanted Ruby On Rails Monolith it has transitioned to a multi-tenanted system consisting of a microservices architecture using Kafka as a messaging system. All of this was delivered using continuous integration along with automated testing.
 
 I’ve also been a part of integrating the platform with various different services from payment gateways, order management systems and email providers to name a few. All of these integrations have been built using the serverless framework to deploy resources to AWS including lambda, SQS, SNS, API Gateway and SSM.
 
