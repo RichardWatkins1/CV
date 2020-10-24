@@ -29,15 +29,15 @@ I'm passionate about collaboratively writing high quality software and I'm looki
 #### Technologies Used Professionally
 
 - Ruby on Rails
-- PostgreSQL
 - Node
+- TypeScript
 - AWS
 - Serverless
+- React
+- PostgreSQL
 - Kafka
 - Heroku
 - Github
-- Fastly
-- React
 - Algolia
 - Rspec
 - Cypress
