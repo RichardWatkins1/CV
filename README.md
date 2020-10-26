@@ -32,19 +32,12 @@ I'm passionate about collaboratively writing high quality software and I'm looki
 - Node
 - TypeScript
 - AWS
-- Serverless
 - React
 - PostgreSQL
 - Kafka
-- Heroku
 - Github
-- Algolia
-- Rspec
 - Cypress
-- Jest
-- Elasticsearch
 - Terraform
-- NextJs
 
 #### Teamwork
 
